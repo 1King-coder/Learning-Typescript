@@ -18,6 +18,16 @@
   },
   "homepage": "https://github.com/1King-coder/Learning-Typescript#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1",
+    "ts-node": "^10.3.0",
     "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@types/node": "^16.10.4"
   }
 }
